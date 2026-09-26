@@ -11,15 +11,12 @@ final class CinemaSeatsData {
 
   static const Set<int> disabledSeatIds = {
     3,
-    8,
     12,
     17,
     22,
-    27,
     34,
     39,
     45,
-    49,
     53,
     58,
   };
